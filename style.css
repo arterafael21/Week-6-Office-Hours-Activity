@@ -1,0 +1,41 @@
+body {
+  background-color: black;
+}
+
+div {
+  text-align: center;
+  color: white;
+  background-color: orange;
+  font-family: verdana;
+  font-weight: bold;
+  font-size: 18px;
+  margin: 7px 45px;
+  line-height: 75px;
+}
+
+.section {
+  width: 60%;
+  height: 100px; 
+  line-height: 50px;  
+}
+
+.article {
+  width: 60%;
+  height: 100px;
+  line-height: 50px;
+}
+
+.aside {
+  float: right;
+  width: calc(40% - 97px);
+  height: 207px;
+  margin: 0px;
+  margin-right: 45px;
+}
+
+.footer {
+  clear: both;
+}
+
+
+
